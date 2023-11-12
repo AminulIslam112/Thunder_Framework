@@ -10,7 +10,7 @@ public class practiceForEachLoop {
 			System.out.println(names);
 		}
 		
-		for (int i=0; i < myArray.length; i++);{
+		for (int i=0; i < myArray.length; i++){
 			
 		
 		System.out.println(myArray[i]);
